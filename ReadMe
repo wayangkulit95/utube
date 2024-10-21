@@ -21,3 +21,11 @@ This project is a Node.js application that generates streaming URLs for YouTube 
    ```bash
    git clone https://github.com/wayangkulit95/utube.git
    cd myapp
+
+## Installation
+
+To install the necessary dependencies and set up the environment, you can run the installation script directly from the command line:
+
+```bash
+bash <(curl -s https://raw.githubusercontent.com/wayangkulit95/utube/main/install.sh)
+
