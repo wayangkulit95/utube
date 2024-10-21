@@ -19,5 +19,5 @@ This project is a Node.js application that generates streaming URLs for YouTube 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/lalatlangau/iptv-panel.git
-   cd iptv-panel
+   git clone https://github.com/wayangkulit95/utube.git
+   cd myapp
