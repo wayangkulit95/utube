@@ -1,0 +1,23 @@
+# YouTube Stream URL Generator
+
+This project is a Node.js application that generates streaming URLs for YouTube videos using DASH and HLS protocols. Users can submit a YouTube video URL and channel name through a simple web interface, and the application fetches the appropriate streaming URL.
+
+## Features
+
+- Fetches DASH and HLS streaming URLs from YouTube.
+- Stores submitted video URLs, channel names, and generated streaming URLs in a SQLite database.
+- Provides a web interface for users to submit YouTube video URLs and channel names.
+- Handles invalid paths and missing parameters gracefully.
+
+## Requirements
+
+- [Node.js](https://nodejs.org/) (v14 or later)
+- [npm](https://www.npmjs.com/) (Node package manager)
+- SQLite (comes with the project)
+
+## Installation
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/lalatlangau/iptv-panel.git
+   cd iptv-panel
